@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a {
+    width: 100%;
+    height: 550px;
+    background-color: rgba(100, 6, 232, 0.856);
+    display: flex;
+    flex-direction: column;
+}
+.a1{
+    width: 100%;
+    height: 480px;
+    display: flex;
+}
+.a2{
+    width: 100%;
+    height: 100px;
+    font-size: 90px;
+    color: white;
+    text-align: center;
+}
+.c1{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(254, 81, 242);
+    margin-bottom: 10px;
+}
+.c2{
+    width: 100%;
+    height: 280px;
+    display: flex;
+}
+.c3{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#c5{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(244, 253, 5);
+    margin-bottom: 10px;
+}
+#c6{
+    width: 100%;
+    height: 110px;
+    background-color: rgb(245, 35, 12);
+}
+.c4{
+    width: 50%;
+    height: 100%;
+    margin-left: 10px;
+    background-color: rgb(12, 230, 245);
+}
+.one{
+    width: 50%;
+    height: 355px;
+    margin: 30px 10px 20px 20px;
+    display: flex;
+    flex-direction: column;
+}
+.two{
+    width: 50%;
+    height: 350px;
+    margin:30px 20px 20px 10px;    
+}
+.b{
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+.b1{
+    height: 270px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+}
+.b2{
+    height: 260px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+}
+#k7{
+    background-color: rgba(248, 14, 240, 0.676);
+    height: 80px;
+    width: 100%;
+    margin-top: 75px;
+}
+#t1{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(227, 17, 213);
+}
+#t2{
+    background-color: rgb(242, 238, 26);
+    height: 80px;
+    width: 80px;
+}
+#t3{
+    background-color: rgb(0, 4, 255);
+    height: 80px;
+    width: 80px;   
+}
+#t4{
+    background-color: rgb(255, 157, 0);
+    height:80px;
+    width: 80px;   
+}
+#k1{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(227, 45, 17);
+    margin-bottom: 10px;
+}
+#k2{
+    background-color: rgb(26, 242, 242);
+    height: 80px;
+    width: 100%;
+    margin-bottom: 10px;   
+}
+#k3{
+    background-color: rgb(255, 238, 0);
+    height: 80px;
+    width: 100%;
+}
+#k4{
+    background-color: rgb(20, 231, 254);
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#k5{
+    background-color: rgb(249, 249, 5);
+    height: 80px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#k6{
+    background-color: rgb(255, 0, 136);
+    height: 80px;
+    width: 100%;
+}
+#u{
+    justify-content: end;
+    align-items: end;
+}
